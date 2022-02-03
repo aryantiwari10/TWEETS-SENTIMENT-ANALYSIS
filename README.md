@@ -1,1 +1,8 @@
-# TWEETS-SENTIMENT-ANALYSIS
+Sentiment analysis is the automated process of identifying and classifying subjective information in text data. This might be an opinion, a judgment, or a feeling about a particular topic or product feature.
+
+The most common type of sentiment analysis is ‘polarity detection’ and involves classifying statements as positive, negative or neutral.
+
+Twitter allows businesses to engage personally with consumers. However, there’s so much data on Twitter that it can be hard for brands to prioritize mentions that could harm their business.
+
+In this project first I performed a exploratory data analysis on the Twitter Sentiment dataset which includes of data cleaning , data manipulation, data preprocessing , data visualization and after that I did the model building using different machine learning classification and regression algorithms and then predicted the accuracy of every model . In the model prediction part I used different machine learning algorithms . In each algorithm I had included the accuracy score , training score , classification report , confusion matrix . While in the EDA part I have included different plots for the different visualizations of our dataset . During the model prediction I got different accuracies from different models , I got the highest accuracy of 100 % using the Random Forest Classifier, XG Boost Classifier which is quite well for the given Brazil Fires dataset . While the other model accuracies can be increased more using the hypertuning . Some plots which I used for visualizing the dataset are Histogram , Barplot , Boxplot, Heatmap , Scatter plot  Pairplot , Jointplot etc.
+
